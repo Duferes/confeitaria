@@ -1,0 +1,39 @@
+{
+    "bolos": [
+        {
+            "title": "Bolo de Laranja",
+            "description": "Bolim de laranja top Bolim de laranja top Bolim de laranja top",
+            "image": "../assets/img/bolo2.jpg",
+            "category": "Tradicional",
+            "price": "R$ 50,00"
+        },
+        {
+            "title": "Bolo de Laranja",
+            "description": "Bolim de laranja top Bolim de laranja top Bolim de laranja top",
+            "image": "../assets/img/bolo2.jpg",
+            "category": "Tradicional",
+            "price": "R$ 50,00"
+        },
+        {
+            "title": "Bolo de Laranja",
+            "description": "Bolim de laranja top Bolim de laranja top Bolim de laranja top",
+            "image": "../assets/img/bolo2.jpg",
+            "category": "Tradicional",
+            "price": "R$ 50,00"
+        },
+        {
+            "title": "Bolo de Laranja",
+            "description": "Bolim de laranja top Bolim de laranja top Bolim de laranja top",
+            "image": "../assets/img/bolo2.jpg",
+            "category": "Tradicional",
+            "price": "R$ 50,00"
+        },
+        {
+            "title": "Bolo de Laranja",
+            "description": "Bolim de laranja top Bolim de laranja top Bolim de laranja top",
+            "image": "../assets/img/bolo2.jpg",
+            "category": "Tradicional",
+            "price": "R$ 50,00"
+        }
+    ]
+} 
